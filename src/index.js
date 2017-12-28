@@ -2,7 +2,7 @@ import {app} from 'hyperapp'
 import {view} from './views/'
 import {delayedClicks$} from './utils/delayed-click'
 import {registerWorker} from './utils/register-worker'
-import logger from "@hyperapp/logger"
+import logger from '@hyperapp/logger'
 
 const state = {
   count: 0

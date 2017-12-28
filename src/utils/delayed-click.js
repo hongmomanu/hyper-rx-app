@@ -11,8 +11,6 @@ const delayedClicks$ = (new Subject())
 .concatMap(delay$)
 
 delayedClicks$.subscribe(callback => {
-  //const time = window.performance.now() - started
-  //console.log(`executing at ${time.toFixed(2)} ms`)
   callback()
 })
 
