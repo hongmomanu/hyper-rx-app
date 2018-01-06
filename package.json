@@ -43,7 +43,9 @@
   "dependencies": {
     "@hyperapp/logger": "^0.4.1",
     "hyperapp": "^1.0.1",
+    "konva": "^1.7.6",
     "rxjs": "^5.5.6",
-    "tachyons": "^4.9.0"
+    "tachyons": "^4.9.0",
+    "two.js": "^0.7.0-alpha.1"
   }
 }
