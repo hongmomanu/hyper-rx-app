@@ -1866,9 +1866,9 @@ http-signature@~1.2.0:
     jsprim "^1.2.2"
     sshpk "^1.7.0"
 
-hyperapp@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/hyperapp/-/hyperapp-1.0.0.tgz#b5962f928a3a55fc0f69e39eea511e942b97034e"
+hyperapp@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/hyperapp/-/hyperapp-1.0.1.tgz#4acbe3c432709c7ec29fa320d9d2e54a47e6a17f"
 
 iconv-lite@0.4.19:
   version "0.4.19"
@@ -2250,6 +2250,10 @@ kind-of@^4.0.0:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-4.0.0.tgz#20813df3d712928b207378691a45066fae72dd57"
   dependencies:
     is-buffer "^1.1.5"
+
+konva@^1.7.6:
+  version "1.7.6"
+  resolved "https://registry.yarnpkg.com/konva/-/konva-1.7.6.tgz#7aceef1058b04127077c8f44653556b35b1133e6"
 
 latest-version@^3.0.0:
   version "3.1.0"
@@ -2808,6 +2812,10 @@ package-json@^4.0.0:
     registry-auth-token "^3.0.1"
     registry-url "^3.0.3"
     semver "^5.1.0"
+
+paper@^0.11.5:
+  version "0.11.5"
+  resolved "https://registry.yarnpkg.com/paper/-/paper-0.11.5.tgz#d662de67bce8218c287bfe17586d099d2cc48040"
 
 param-case@2.1.x:
   version "2.1.1"
