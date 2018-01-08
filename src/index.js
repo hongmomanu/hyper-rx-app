@@ -1,7 +1,7 @@
 import {app} from 'hyperapp'
 import {view} from './views/'
 import {delayedClicks$} from './utils/delayed-click'
-import {registerWorker} from './utils/register-worker'
+//import {registerWorker} from './utils/register-worker'
 import logger from '@hyperapp/logger'
 
 const state = {
@@ -24,4 +24,4 @@ const actions = {
 
 window.main = logger()(app)(state, actions, view, document.getElementById('app'))
 
-registerWorker()
+//registerWorker()
